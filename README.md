@@ -14,7 +14,7 @@ $ echo "GET http://www.example.com" >> op/example.req
 ## Installation
 
 ```
-go get github.com/ox/go-http-fetcher
+go install github.com/ox/go-http-fetcher
 ```
 
 ## Request File Format
